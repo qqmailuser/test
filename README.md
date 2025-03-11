@@ -1,2 +1,2 @@
 # test
-github 更新
+github 更新 2
